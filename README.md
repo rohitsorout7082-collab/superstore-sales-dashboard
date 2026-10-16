@@ -6,7 +6,8 @@ An executive-level interactive Power BI sales dashboard built to analyze retail 
 
  Dashboard Preview
 
-![Dashboard Screenshot](dashboard_screenshot.png)
+![Dashboard Screenshot](dashboard_screenshot.png.png
+)
 
 ---
 
